@@ -35,7 +35,7 @@ Let’s clone a test project, and share it with the world!
 
 ## General requirements
 
-None
+None req.
 
 ## Hints
 
